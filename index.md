@@ -2,6 +2,9 @@
 ![Cosmic Cat](https://wallpaperaccess.com/full/154009.jpg)
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+The Cosmic Cat!
+It is a gray cat that wears cosmic glass
 ```
+- [x] It is Gray
+- [x] Wears Cosmic Glasses
+- [ ] Isn't finished looking cool
